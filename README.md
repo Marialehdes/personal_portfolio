@@ -3,6 +3,7 @@ I had so much fun creating this portfolio and I can't wait to continue to work o
 
 For this project I used various sources for inspiration as well as to add cool factors.
 https://react-hook-form.com/docs/useform/handlesubmit
+        <br></br>
 https://motion.dev/
 https://motion.dev/
 https://www.w3schools.com/react/react_usestate.asp
